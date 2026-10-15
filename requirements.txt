@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu130
+torch
+transformers
+datasets
+accelerate
+scikit-learn
+matplotlib
+jupyter
+ipykernel
